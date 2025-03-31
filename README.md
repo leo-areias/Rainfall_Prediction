@@ -14,7 +14,7 @@ O objetivo desta competição é **prever a quantidade de chuva diária (rainfal
 ## 🔧 **Como Executar o Código**  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/kaggle-rainfall-2025.git
+   git clone https://github.com/leo-areias/Rainfall_Prediction.git
    ```
 2. Instale as dependências necessárias:  
    ```bash
