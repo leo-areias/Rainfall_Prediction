@@ -1,4 +1,4 @@
-# 🌧️ **Kaggle Playground Series - Rainfall Prediction (2025) 🌧️  
+# 🌧️ **Kaggle Playground Series - Rainfall Prediction (2025)** 🌧️  
 
 ## 📌 **Sobre a Competição**  
 Este repositório contém a solução para a **Kaggle Playground Series - 2025**, uma competição mensal do Kaggle que fornece **datasets desafiadores e acessíveis** para a comunidade praticar **Machine Learning**.  
